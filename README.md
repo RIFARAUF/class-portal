@@ -16,7 +16,7 @@ A React app showcasing a student directory with reusable components, nested skil
 
 ## Links
 - **GitHub Repository:** https://github.com/RIFARAUF/class-portal.git
-- **Live Website:** https://<your-deployment-url>
+- **Live Website:** https://splendid-tartufo-33a06e.netlify.app/
 
 ## Run Locally
 1. Clone the repository:
